@@ -19,7 +19,7 @@
     "electron": "^45.3.3",
     "eslint": "9.39.5",
     "globals": "17.14.0",
-    "playwright": "1.63.0"
+    "playwright": "1.65.1"
   },
   "repository": {
     "type": "git",
